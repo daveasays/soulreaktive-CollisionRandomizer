@@ -1,4 +1,4 @@
-# Soulreaktive — Collision Randomizer
+# Soulreaktive — CollisionRandomizer
 
 I always wish Ableton would add a random clickable button to their Instruments & Fx devices (not when they are racked), now it's possible with this 'lil extension. This is another cool starting point, when you find something sounding good, you can go further in sound designing Collision, or simply save this state as a new preset.
 
@@ -12,7 +12,7 @@ Double-click the `.ablx` file with Live Beta open (Developer Mode enabled in Pre
 
 ## Usage
 
-Right-click on a MIDI track (clip view or arrangement view) containing a Collision → search in extension menu: ***Soulreaktive - Collision Randomizer*** → Start Randomize Collision
+Right-click on a MIDI track (clip view or arrangement view) containing a Collision → search in extension menu: ***Soulreaktive - CollisionRandomizer*** → Start Randomize Collision
 
 ## What gets randomized
 
